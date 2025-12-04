@@ -1,0 +1,138 @@
+[
+  {
+    "id": "1",
+    "title": "Spinach Omelette",
+    "ingredients": ["eggs", "spinach", "cheese", "salt", "pepper"],
+    "instructions": [
+      "Whisk eggs with salt and pepper.",
+      "Sauté spinach.",
+      "Add eggs and cheese, cook 3 minutes."
+    ],
+    "minutes": 10
+  },
+  {
+    "id": "2",
+    "title": "Tomato Pasta",
+    "ingredients": ["pasta", "tomato", "olive oil", "garlic", "salt"],
+    "instructions": [
+      "Boil pasta until tender.",
+      "Cook tomatoes with garlic in olive oil.",
+      "Mix pasta and sauce."
+    ],
+    "minutes": 20
+  },
+  {
+    "id": "9",
+    "title": "Falafel Wrap",
+    "ingredients": ["chickpeas", "garlic", "parsley", "cumin", "tahini", "pita bread"],
+    "instructions": [
+      "Blend chickpeas with garlic, parsley, and spices.",
+      "Form small balls and fry until golden.",
+      "Serve in pita with tahini sauce."
+    ],
+    "minutes": 25
+  },
+  {
+    "id": "10",
+    "title": "Korean Bibimbap",
+    "ingredients": ["rice", "beef", "spinach", "carrots", "egg", "gochujang"],
+    "instructions": [
+      "Cook rice and prepare vegetables.",
+      "Sauté beef with soy sauce.",
+      "Top rice with beef, vegetables, and fried egg.",
+      "Serve with gochujang."
+    ],
+    "minutes": 35
+  },
+  {
+    "id": "11",
+    "title": "Moroccan Couscous",
+    "ingredients": ["couscous", "chickpeas", "carrots", "zucchini", "cinnamon", "turmeric"],
+    "instructions": [
+      "Steam couscous.",
+      "Cook vegetables with spices.",
+      "Mix couscous with vegetables and chickpeas."
+    ],
+    "minutes": 20
+  },
+  {
+    "id": "12",
+    "title": "Brazilian Feijoada",
+    "ingredients": ["black beans", "pork", "onion", "garlic", "bay leaves"],
+    "instructions": [
+      "Simmer beans with garlic and onions.",
+      "Cook pork separately and add to beans.",
+      "Simmer until flavors blend."
+    ],
+    "minutes": 90
+  },
+  {
+    "id": "13",
+    "title": "German Pretzels",
+    "ingredients": ["flour", "yeast", "baking soda", "salt", "butter"],
+    "instructions": [
+      "Make dough and let rise.",
+      "Shape pretzels.",
+      "Boil briefly in baking soda water.",
+      "Bake until golden."
+    ],
+    "minutes": 60
+  },
+  {
+    "id": "14",
+    "title": "Thai Green Curry",
+    "ingredients": ["green curry paste", "coconut milk", "chicken", "basil", "eggplant"],
+    "instructions": [
+      "Cook curry paste in a pan.",
+      "Add chicken and coconut milk.",
+      "Simmer with vegetables.",
+      "Finish with basil."
+    ],
+    "minutes": 30
+  },
+  {
+    "id": "15",
+    "title": "Ethiopian Lentil Stew (Misir Wot)",
+    "ingredients": ["red lentils", "berbere spice", "onion", "tomato paste", "garlic"],
+    "instructions": [
+      "Sauté onions and garlic.",
+      "Add berbere and tomato paste.",
+      "Simmer lentils until soft."
+    ],
+    "minutes": 40
+  },
+  {
+    "id": "16",
+    "title": "Spanish Paella",
+    "ingredients": ["rice", "saffron", "shrimp", "chicken", "peas", "paprika"],
+    "instructions": [
+      "Sauté chicken and shrimp.",
+      "Add rice, saffron, and broth.",
+      "Simmer without stirring until cooked.",
+      "Add peas near the end."
+    ],
+    "minutes": 50
+  },
+  {
+    "id": "17",
+    "title": "Turkish Menemen",
+    "ingredients": ["eggs", "tomatoes", "peppers", "onion", "olive oil"],
+    "instructions": [
+      "Sauté onions and peppers.",
+      "Add diced tomatoes and simmer.",
+      "Add beaten eggs and cook gently."
+    ],
+    "minutes": 15
+  },
+  {
+    "id": "18",
+    "title": "Jamaican Jerk Chicken",
+    "ingredients": ["chicken", "allspice", "thyme", "scotch bonnet", "garlic", "ginger"],
+    "instructions": [
+      "Blend spices and marinate chicken.",
+      "Grill until cooked through.",
+      "Rest 5 minutes before serving."
+    ],
+    "minutes": 60
+  }
+]
